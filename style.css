@@ -1,11 +1,11 @@
 @font-face {
   font-family: "new";
   /* src: url(fonts/B\ Ziba_0.ttf); */
-  src: url(../fonts/Vazirmatn-VariableFont_wght.ttf);
+  src: url(fonts/Vazirmatn-VariableFont_wght.ttf);
 }
 @font-face {
   font-family: "funy";
-  src: url(../fonts/B\ Ziba_0.ttf);
+  src: url(fonts/B\ Ziba_0.ttf);
 }
 * {
   margin: 0;
